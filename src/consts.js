@@ -1,7 +1,7 @@
-export const SITE_TITLE = `炼丹笔记`;
+export const SITE_TITLE = `不会炼丹笔记`;
 export const SITE_DESCRIPTION = '炼丹,笔记,Stable diffusion,sd,mj,Midjourney,魔法,咒语,AI,AI绘图,Prompts,人工智能,ChatGpt,Gpt,科技';
 export const SITE_EMAIL = 'wendaleruan@gmail.com'
-export const SITE_NAME = 'pin.ink';
+export const SITE_NAME = 'Pin.ink';
 export const SITE_URL = "https://pin.ink";
 export const SITE_LANG = "zh-CN";
 
